@@ -2,9 +2,9 @@
 
 
 
-Advanced Microservices project with Java
+Customer Management Microservices project with Java, Spring Boot
 
-## ```Stack: Java, Spring Boot, PostgreSQL```
+## ```Stack: Java, Spring Boot, PostgreSQL, Docker```
 
 Project is in progress, will be added more stack and info
 
