@@ -10,6 +10,11 @@ Project is in progress, will be added more stack and info
 
 <br />
 
+## Microservices
+
+- Customer Microservice `::8080`
+- Fraud Microservice `::8888`
+
 
 # Desired Architecure
 
